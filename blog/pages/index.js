@@ -20,7 +20,7 @@ export default function Blog() {
       <a href="/">Home</a>
       <div>
         <Image
-          src="/blog/static/nextjs.png"
+          src="/blog/nextjs.png"
           alt="Next.js logo"
           width={200}
           height={160}
